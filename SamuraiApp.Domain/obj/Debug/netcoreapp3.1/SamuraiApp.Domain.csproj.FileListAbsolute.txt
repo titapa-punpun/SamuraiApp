@@ -1,0 +1,10 @@
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Domain/bin/Debug/netcoreapp3.1/SamuraiApp.Domain.deps.json
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Domain/bin/Debug/netcoreapp3.1/SamuraiApp.Domain.dll
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Domain/bin/Debug/netcoreapp3.1/SamuraiApp.Domain.pdb
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Domain/obj/Debug/netcoreapp3.1/SamuraiApp.Domain.csproj.AssemblyReference.cache
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Domain/obj/Debug/netcoreapp3.1/SamuraiApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Domain/obj/Debug/netcoreapp3.1/SamuraiApp.Domain.AssemblyInfoInputs.cache
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Domain/obj/Debug/netcoreapp3.1/SamuraiApp.Domain.AssemblyInfo.cs
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Domain/obj/Debug/netcoreapp3.1/SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Domain/obj/Debug/netcoreapp3.1/SamuraiApp.Domain.dll
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Domain/obj/Debug/netcoreapp3.1/SamuraiApp.Domain.pdb

@@ -1,0 +1,13 @@
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Data/bin/Debug/netcoreapp3.1/SamuraiApp.Data.deps.json
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Data/bin/Debug/netcoreapp3.1/SamuraiApp.Data.dll
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Data/bin/Debug/netcoreapp3.1/SamuraiApp.Data.pdb
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Data/bin/Debug/netcoreapp3.1/SamuraiApp.Domain.dll
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Data/bin/Debug/netcoreapp3.1/SamuraiApp.Domain.pdb
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Data/obj/Debug/netcoreapp3.1/SamuraiApp.Data.csproj.AssemblyReference.cache
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Data/obj/Debug/netcoreapp3.1/SamuraiApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Data/obj/Debug/netcoreapp3.1/SamuraiApp.Data.AssemblyInfoInputs.cache
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Data/obj/Debug/netcoreapp3.1/SamuraiApp.Data.AssemblyInfo.cs
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Data/obj/Debug/netcoreapp3.1/SamuraiApp.Data.csproj.CoreCompileInputs.cache
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Data/obj/Debug/netcoreapp3.1/SamuraiApp.Data.csproj.CopyComplete
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Data/obj/Debug/netcoreapp3.1/SamuraiApp.Data.dll
+/Users/titapapunne/Documents/github/SamuraiApp/SamuraiApp.Data/obj/Debug/netcoreapp3.1/SamuraiApp.Data.pdb
